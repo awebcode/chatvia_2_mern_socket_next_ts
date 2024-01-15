@@ -1,0 +1,83 @@
+{
+  "logout": "लॉग आउट",
+  "signIn": "साइन इन करें",
+  "signInSubTitle": "साइन इन करें और चैट मैसेज में शामिल हों",
+  "signUp": "साइन अप",
+  "signUpSubtitle": "अब अपने Chatvia खाता प्राप्त करें।",
+  "password": "पासवर्ड",
+  "fullname": "पूरा नाम",
+  "acceptTermOfUse": "रजिस्टर करके आप Chatvia की उपयोग की शर्तों से सहमत होते हैं",
+  "createNewConversation": "नया संवाद बनाएं",
+  "noContact": "आपके पास कोई मित्र संपर्क नहीं है",
+  "openConversation": "अपने दोस्त के साथ चैट करने के लिए एक संवाद खोलें!",
+  "startMessage": "आपने अबतक कोई संदेश नहीं भेजा है। हाय कहें",
+  "you": "तुम: ",
+  "noConversationFounded": "कोई संवाद नहीं मिला!",
+  "signUpNow": "अब साइन अप करें",
+  "updateYourProfile": "अपनी प्रोफाइल अपडेट करें",
+  "noDescriptionYet": "अबतक कोई विवरण नहीं!",
+  "profile": "प्रोफ़ाइल",
+  "media": "मीडिया",
+  "links": "लिंक्स",
+  "mediaAndLinks": "मीडिया और लिंक्स",
+  "noImageFounded": "कोई छवि नहीं मिली!",
+  "changeEmoji": "इमोजी बदलें",
+  "pendingConversationWarning": "यदि आप जवाब देते हैं, तो यह संवाद उपलब्ध संवाद में भेजा जाएगा",
+  "setting": "सेटिंग",
+  "language": "भाषा",
+  "theme": "थीम",
+  "lightMode": "लाइट मोड",
+  "darkMode": "डार्क मोड",
+  "blockConversation": "संवाद ब्लॉक करें",
+  "pinnedMessage": "पिन किया गया संदेश",
+  "blockUser": {
+    "blocking": "आपने इस उपयोगकर्ता को ब्लॉक किया है",
+    "blocked": "आपको इस उपयोगकर्ता द्वारा ब्लॉक किया गया है",
+    "sub": " आप उन्हें संदेश भेजने या उनके संदेश प्राप्त करने के लिए नहीं"
+  },
+  "button": {
+    "create": "बनाएं",
+    "update": "अपडेट करें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "block": "ब्लॉक करें",
+    "unBlock": "अनब्लॉक करें",
+    "pin": "पिन करें",
+    "unPin": "अनपिन करें"
+  },
+  "placeholder": {
+    "typeEmailHere": "यहाँ ईमेल लिखें",
+    "searchForUser": "उपयोगकर्ता खोजें",
+    "searchForMessageOrUser": "संदेश या उपयोगकर्ता खोजें"
+  },
+  "error": {
+    "required": "आवश्यक",
+    "invalid": "अमान्य",
+    "min": "कम से कम 6 वर्ण",
+    "max": "अधिकतम 50 वर्ण"
+  },
+  "question": {
+    "areYouSureToBlockThisConversation": "क्या आप इस संवाद को ब्लॉक करना चाहते हैं?",
+    "alreadyHaveAnAccount": "पहले से ही खाता है?",
+    "dontHaveAnAccount": "खाता नहीं है?"
+  },
+  "title": {
+    "contact": "संपर्क",
+    "recent": "हाल का",
+    "myProfile": "मेरी प्रोफ़ाइल",
+    "about": "के बारे में",
+    "socialProfile": "सामाजिक प्रोफ़ाइल",
+    "pendingConversation": "लंबित संवाद",
+    "deleteConversation": "क्या आप इस संवाद को हटाना चाहते हैं?"
+  },
+  "field": {
+    "fullname": "पूरा नाम",
+    "description": "विवरण",
+    "username": "उपयोगकर्ता नाम",
+    "email": "ईमेल",
+    "gender": "लिंग",
+    "location": "स्थान",
+    "facebook": "फेसबुक",
+    "avatar": "अवतार"
+  }
+}

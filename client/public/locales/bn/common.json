@@ -1,0 +1,84 @@
+{
+  "helloWorld": "হালো ওয়োড়ল্ড",
+  "logout": "লগ আউট",
+  "signIn": "সাইন ইন",
+  "signInSubTitle": "সাইন ইন করুন এবং চ্যাট মেসেজ জয়েন করুন",
+  "signUp": "নিবন্ধন করুন",
+  "signUpSubtitle": "এখনই আপনার Chatvia অ্যাকাউন্ট পান।",
+  "password": "পাসওয়ার্ড",
+  "fullname": "পূর্ণ নাম",
+  "acceptTermOfUse": "নিবন্ধন করে আপনি Chatvia ব্যবহারের শর্তাদি স্বীকার করেছেন",
+  "createNewConversation": "নতুন কনভার্সেশন তৈরি করুন",
+  "noContact": "আপনার কোনও বন্ধু যোগাযোগ নেই",
+  "openConversation": "এখনই আপনার বন্ধুর সাথে চ্যাট করতে একটি কনভার্সেশন খুলুন!",
+  "startMessage": "আপনি এখনও কোনও মেসেজ পাচ্ছেন না। হায় বলুন",
+  "you": "আপনি: ",
+  "noConversationFounded": "কোনও কনভার্সেশন পাওয়া যায়নি!",
+  "signUpNow": "এখনই নিবন্ধন করুন",
+  "updateYourProfile": "আপনার প্রোফাইল আপডেট করুন",
+  "noDescriptionYet": "এখনও কোনও বর্ণনা নেই!",
+  "profile": "প্রোফাইল",
+  "media": "মিডিয়া",
+  "links": "লিঙ্কস",
+  "mediaAndLinks": "মিডিয়া এবং লিঙ্কস",
+  "noImageFounded": "কোনও চিত্র পাওয়া যায়নি!",
+  "changeEmoji": "ইমোজি পরিবর্তন করুন",
+  "pendingConversationWarning": "আপনি উত্তর দিলে, এই কনভার্সেশনটি উপলব্ধ কনভার্সেশনে প্রেরিত হবে",
+  "setting": "সেটিং",
+  "language": "ভাষা",
+  "theme": "থিম",
+  "lightMode": "হালকা মোড",
+  "darkMode": "ডার্ক মোড",
+  "blockConversation": "কনভার্সেশন ব্লক করুন",
+  "pinnedMessage": "পিন করা মেসেজ",
+  "blockUser": {
+    "blocking": "আপনি এই ব্যবহারকারীকে ব্লক করেছেন",
+    "blocked": "আপনি এই ব্যবহারকারী দ্বারা ব্লক করা হয়েছে",
+    "sub": " আপনি তাদের মেসেজ প্রেরণ বা তাদের মেসেজ প্রাপ্ত করতে পারবেন না"
+  },
+  "button": {
+    "create": "তৈরি করুন",
+    "update": "আপডেট করুন",
+    "cancel": "বাতিল করুন",
+    "delete": "মুছুন",
+    "block": "ব্লক করুন",
+    "unBlock": "আনব্লক করুন",
+    "pin": "পিন করুন",
+    "unPin": "আনপিন করুন"
+  },
+  "placeholder": {
+    "typeEmailHere": "এখানে ইমেইল টাইপ করুন",
+    "searchForUser": "ব্যবহারকারী অনুসন্ধান করুন",
+    "searchForMessageOrUser": "মেসেজ বা ব্যবহারকারী অনুসন্ধান করুন"
+  },
+  "error": {
+    "required": "প্রয়োজন",
+    "invalid": "অবৈধ",
+    "min": "সর্বনিম্ন 6 টি অক্ষর",
+    "max": "সর্বাধিক 50 টি অক্ষর"
+  },
+  "question": {
+    "areYouSureToBlockThisConversation": "আপনি কি নিশ্চিত যে এই কনভার্সেশনটি ব্লক করতে চান?",
+    "alreadyHaveAnAccount": "ইতিমধ্যে একটি অ্যাকাউন্ট আছে?",
+    "dontHaveAnAccount": "কোনও অ্যাকাউন্ট নেই?"
+  },
+  "title": {
+    "contact": "যোগাযোগ",
+    "recent": "সাম্প্রতিক",
+    "myProfile": "আমার প্রোফাইল",
+    "about": "সম্পর্কিত",
+    "socialProfile": "সামাজিক প্রোফাইল",
+    "pendingConversation": "মুলতুবি কনভার্সেশন",
+    "deleteConversation": "আপনি কি এই কনভার্সেশনটি মুছতে নিশ্চিত?"
+  },
+  "field": {
+    "fullname": "পূর্ণ নাম",
+    "description": "বর্ণনা",
+    "username": "ব্যবহারকারী নাম",
+    "email": "ইমেইল",
+    "gender": "লিঙ্গ",
+    "location": "অবস্থান",
+    "facebook": "ফেসবুক",
+    "avatar": "অবতার"
+  }
+}

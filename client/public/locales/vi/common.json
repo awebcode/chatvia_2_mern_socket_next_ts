@@ -1,0 +1,83 @@
+{
+  "logout": "Đăng xuất",
+  "signIn": "Đăng nhập",
+  "signInSubTitle": "Đăng nhập để tiếp tục với Chatvia",
+  "signUp": "Đăng ký",
+  "signUpSubtitle": "Nhận tài khoản Chatvia của bạn ngay bây giờ.",
+  "password": "Mật khẩu",
+  "fullname": "Họ và tên",
+  "signUpNow": "Đăng ký ngay",
+  "acceptTermOfUse": "Bằng việc nhấn nút đăng ký, bạn đồng ý với điều khoản sử dụng của Chatvia",
+  "createNewConversation": "Tạo cuộc trò chuyện mới",
+  "noContact": "Bạn chưa có liên hệ nào",
+  "openConversation": "Chọn 1 cuộc trò chuyện và bắt đầu Chat ngay nào!",
+  "startMessage": "Bắt đầu cuộc trò chuyện với 1 lời chào nhé",
+  "you": "Bạn: ",
+  "noConversationFounded": "Không cuộc trò chuyện nào được tìm thấy",
+  "updateYourProfile": "Cập nhật thông tin của bạn",
+  "noDescriptionYet": "Chưa có mô tả",
+  "profile": "Thông tin cá nhân",
+  "mediaAndLinks": "Ảnh và liên kết",
+  "noImageFounded": "Không có ảnh nào được tìm thấy!",
+  "media": "Ảnh",
+  "links": "Liên kết",
+  "changeEmoji": "Thay kí tự đặc biệt",
+  "pendingConversationWarning": "Nếu bạn trả lời, đoạn chat sẽ chuyển sang trạng thái chấp nhận",
+  "setting": "Cài đặt",
+  "language": "Ngôn ngữ",
+  "theme": "Chủ đề",
+  "lightMode": "Sáng",
+  "darkMode": "Tối",
+  "pinnedMessage": "Tin nhắn được ghim",
+  "button": {
+    "create": "Tạo mới",
+    "update": "Cập nhật",
+    "cancel": "Quay lại",
+    "delete": "Xoá",
+    "block": "Chặn",
+    "unBlock": "Bỏ chặn",
+    "pin": "Ghim",
+    "unPin": "Bỏ ghim"
+  },
+  "blockConversation": "Chặn cuộc trò chuyện",
+  "blockUser": {
+    "blocking": "Bạn đã chặn người dùng này",
+    "blocked": "Bạn đã bị người dùng này chặn",
+    "sub": "Bạn không thể gửi hay nhận tin nhắn từ người dùng này"
+  },
+  "placeholder": {
+    "typeEmailHere": "Nhập email tại đây",
+    "searchForUser": "Tìm liên hệ",
+    "searchForMessageOrUser": "Tìm kiếm tin nhắn hoặc người dùng"
+  },
+  "error": {
+    "required": "Bắt buộc",
+    "invalid": "Không hợp lệ",
+    "min": "Ít nhất 6 ký tự",
+    "max": "Nhiều nhất 50 ký tự"
+  },
+  "question": {
+    "areYouSureToBlockThisConversation": "Bạn có chắc muốn chặn cuộc hội thoại này?",
+    "dontHaveAnAccount": "Chưa có tài khoản?",
+    "alreadyHaveAnAccount": "Đã có tài khoản?"
+  },
+  "title": {
+    "contact": "Liên hệ",
+    "recent": "Mới nhất",
+    "myProfile": "Thông tin của tôi",
+    "about": "Về tôi",
+    "socialProfile": "Mạng xã hội",
+    "pendingConversation": "Cuộc trò chuyện chờ",
+    "deleteConversation": "Bạn có chắc chắn muốn xoá cuộc trò chuyện này?"
+  },
+  "field": {
+    "fullname": "Họ và tên",
+    "description": "Mô tả",
+    "username": "Tên",
+    "email": "Email",
+    "gender": "Giới tính",
+    "location": "Vị trí",
+    "facebook": "Facebook",
+    "avatar": "Ảnh đại diện"
+  }
+}

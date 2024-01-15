@@ -1,0 +1,83 @@
+{
+  "logout": "Выйти",
+  "signIn": "Войти",
+  "signInSubTitle": "Войдите и присоединяйтесь к чату",
+  "signUp": "Зарегистрироваться",
+  "signUpSubtitle": "Получите свою учетную запись Chatvia прямо сейчас.",
+  "password": "Пароль",
+  "fullname": "Полное имя",
+  "acceptTermOfUse": "Регистрируясь, вы соглашаетесь с условиями использования Chatvia",
+  "createNewConversation": "Создать новый разговор",
+  "noContact": "У вас нет контактов-друзей",
+  "openConversation": "Откройте разговор, чтобы начать чат с вашим другом прямо сейчас!",
+  "startMessage": "У вас пока нет сообщений. Скажите привет",
+  "you": "Вы: ",
+  "noConversationFounded": "Нет найденных разговоров!",
+  "signUpNow": "Зарегистрируйтесь сейчас",
+  "updateYourProfile": "Обновите свой профиль",
+  "noDescriptionYet": "Пока нет описания!",
+  "profile": "Профиль",
+  "media": "Медиа",
+  "links": "Ссылки",
+  "mediaAndLinks": "Медиа и ссылки",
+  "noImageFounded": "Изображений не найдено!",
+  "changeEmoji": "Изменить эмодзи",
+  "pendingConversationWarning": "Если вы ответите, этот разговор будет отправлен в доступный разговор",
+  "setting": "Настройки",
+  "language": "Язык",
+  "theme": "Тема",
+  "lightMode": "Светлый режим",
+  "darkMode": "Темный режим",
+  "blockConversation": "Заблокировать разговор",
+  "pinnedMessage": "Закрепленное сообщение",
+  "blockUser": {
+    "blocking": "Вы заблокировали этого пользователя",
+    "blocked": "Вас заблокировал этот пользователь",
+    "sub": " Вы не можете отправлять сообщения или получать их"
+  },
+  "button": {
+    "create": "Создать",
+    "update": "Обновить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "block": "Заблокировать",
+    "unBlock": "Разблокировать",
+    "pin": "Закрепить",
+    "unPin": "Открепить"
+  },
+  "placeholder": {
+    "typeEmailHere": "Введите электронную почту здесь",
+    "searchForUser": "Поиск пользователей",
+    "searchForMessageOrUser": "Поиск сообщений или пользователей"
+  },
+  "error": {
+    "required": "Обязательно",
+    "invalid": "Недействительно",
+    "min": "Минимум 6 символов",
+    "max": "Максимум 50 символов"
+  },
+  "question": {
+    "areYouSureToBlockThisConversation": "Вы уверены, что хотите заблокировать этот разговор?",
+    "alreadyHaveAnAccount": "Уже есть учетная запись?",
+    "dontHaveAnAccount": "Нет учетной записи?"
+  },
+  "title": {
+    "contact": "Контакты",
+    "recent": "Последние",
+    "myProfile": "Мой профиль",
+    "about": "Информация",
+    "socialProfile": "Социальный профиль",
+    "pendingConversation": "Ожидающий разговор",
+    "deleteConversation": "Вы уверены, что хотите удалить этот разговор?"
+  },
+  "field": {
+    "fullname": "Полное имя",
+    "description": "Описание",
+    "username": "Имя пользователя",
+    "email": "Электронная почта",
+    "gender": "Пол",
+    "location": "Местоположение",
+    "facebook": "Facebook",
+    "avatar": "Аватар"
+  }
+}

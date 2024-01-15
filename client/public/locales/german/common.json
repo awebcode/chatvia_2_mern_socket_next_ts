@@ -1,0 +1,83 @@
+{
+  "logout": "Abmelden",
+  "signIn": "Anmelden",
+  "signInSubTitle": "Melden Sie sich an und nehmen Sie am Chat teil",
+  "signUp": "Registrieren",
+  "signUpSubtitle": "Holen Sie sich jetzt Ihr Chatvia-Konto.",
+  "password": "Passwort",
+  "fullname": "Vollständiger Name",
+  "acceptTermOfUse": "Durch die Registrierung stimmen Sie den Chatvia Nutzungsbedingungen zu",
+  "createNewConversation": "Neues Gespräch erstellen",
+  "noContact": "Sie haben keine Freunde in den Kontakten",
+  "openConversation": "Öffnen Sie ein Gespräch, um jetzt mit Ihrem Freund zu chatten!",
+  "startMessage": "Sie haben noch keine Nachrichten. Sagen Sie hallo",
+  "you": "Sie: ",
+  "noConversationFounded": "Keine Gespräche gefunden!",
+  "signUpNow": "Jetzt registrieren",
+  "updateYourProfile": "Aktualisieren Sie Ihr Profil",
+  "noDescriptionYet": "Noch keine Beschreibung!",
+  "profile": "Profil",
+  "media": "Medien",
+  "links": "Links",
+  "mediaAndLinks": "Medien und Links",
+  "noImageFounded": "Kein Bild gefunden!",
+  "changeEmoji": "Emoji ändern",
+  "pendingConversationWarning": "Wenn Sie antworten, wird dieses Gespräch an das verfügbare Gespräch gesendet",
+  "setting": "Einstellungen",
+  "language": "Sprache",
+  "theme": "Thema",
+  "lightMode": "Heller Modus",
+  "darkMode": "Dunkler Modus",
+  "blockConversation": "Gespräch blockieren",
+  "pinnedMessage": "Fixierte Nachricht",
+  "blockUser": {
+    "blocking": "Sie haben diesen Benutzer blockiert",
+    "blocked": "Sie wurden von diesem Benutzer blockiert",
+    "sub": " Sie können keine Nachrichten senden oder empfangen"
+  },
+  "button": {
+    "create": "Erstellen",
+    "update": "Aktualisieren",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "block": "Blockieren",
+    "unBlock": "Entsperren",
+    "pin": "Anheften",
+    "unPin": "Lösen"
+  },
+  "placeholder": {
+    "typeEmailHere": "Geben Sie hier Ihre E-Mail ein",
+    "searchForUser": "Nach Benutzern suchen",
+    "searchForMessageOrUser": "Nach Nachrichten oder Benutzern suchen"
+  },
+  "error": {
+    "required": "Erforderlich",
+    "invalid": "Ungültig",
+    "min": "Mindestens 6 Zeichen",
+    "max": "Maximal 50 Zeichen"
+  },
+  "question": {
+    "areYouSureToBlockThisConversation": "Sind Sie sicher, dass Sie dieses Gespräch blockieren möchten?",
+    "alreadyHaveAnAccount": "Schon einen Account?",
+    "dontHaveAnAccount": "Keinen Account?"
+  },
+  "title": {
+    "contact": "Kontakte",
+    "recent": "Kürzlich",
+    "myProfile": "Mein Profil",
+    "about": "Über",
+    "socialProfile": "Soziales Profil",
+    "pendingConversation": "Ausstehendes Gespräch",
+    "deleteConversation": "Möchten Sie dieses Gespräch wirklich löschen?"
+  },
+  "field": {
+    "fullname": "Vollständiger Name",
+    "description": "Beschreibung",
+    "username": "Benutzername",
+    "email": "E-Mail",
+    "gender": "Geschlecht",
+    "location": "Ort",
+    "facebook": "Facebook",
+    "avatar": "Avatar"
+  }
+}

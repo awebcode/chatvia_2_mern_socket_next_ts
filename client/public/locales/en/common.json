@@ -1,0 +1,83 @@
+{
+  "logout": "Log out",
+  "signIn": "Sign in",
+  "signInSubTitle": "Sign in to continue to Chxatvia",
+  "signUp": "Sign up",
+  "signUpSubtitle": "Get your Chatvia account now.",
+  "password": "Password",
+  "fullname": "Fullname",
+  "acceptTermOfUse": "By registering you agree to the Chatvia Terms of Use",
+  "createNewConversation": "Create new conversation",
+  "noContact": "You dont have any friend contact",
+  "openConversation": "Open a conversation to chat with your friend now!",
+  "startMessage": "You havent had any messages yet. Say hi",
+  "you": "You: ",
+  "noConversationFounded": "No conversations founded!",
+  "signUpNow": "Sign up now",
+  "updateYourProfile": "Update your profile",
+  "noDescriptionYet": "No description yet!",
+  "profile": "Profile",
+  "media": "Media",
+  "links": "Links",
+  "mediaAndLinks": "Media and links",
+  "noImageFounded": "No image founded!",
+  "changeEmoji": "Change emoji",
+  "pendingConversationWarning": "If you reply, this conversation will be send to available conversation",
+  "setting": "Setting",
+  "language": "Language",
+  "theme": "Theme",
+  "lightMode": "Light mode",
+  "darkMode": "Dark mode",
+  "blockConversation": " Block conversation",
+  "pinnedMessage": "Pinned message",
+  "blockUser": {
+    "blocking": "You've block this user",
+    "blocked": "You've been blocked by this user",
+    "sub": " You can't message or receive their message"
+  },
+  "button": {
+    "create": "Create",
+    "update": "Update",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "block": "Block",
+    "unBlock": "Unblock",
+    "pin": "Pin",
+    "unPin": "Unpin"
+  },
+  "placeholder": {
+    "typeEmailHere": "Type email here",
+    "searchForUser": "Search for users",
+    "searchForMessageOrUser": "Search messages or users"
+  },
+  "error": {
+    "required": "Required",
+    "invalid": "Invalid",
+    "min": "Min 6 characters",
+    "max": "Max 50 characters"
+  },
+  "question": {
+    "areYouSureToBlockThisConversation": "Are you sure to block this conversation?",
+    "alreadyHaveAnAccount": "Already have an account ?",
+    "dontHaveAnAccount": "Dont have an account?"
+  },
+  "title": {
+    "contact": "Contacts",
+    "recent": "Recent",
+    "myProfile": "My profile",
+    "about": "About",
+    "socialProfile": "Social profile",
+    "pendingConversation": "Pending conversation",
+    "deleteConversation": "Are you sure to delete this conversation?"
+  },
+  "field": {
+    "fullname": "Fullname",
+    "description": "Description",
+    "username": "Username",
+    "email": "Email",
+    "gender": "Gender",
+    "location": "Location",
+    "facebook": "Facebook",
+    "avatar": "Avatar"
+  }
+}
