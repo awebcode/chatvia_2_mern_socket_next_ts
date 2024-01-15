@@ -72,6 +72,8 @@ mongoose
     .catch((err: Error) => {
         throw err;
     });
-
+application.get("/", () => {
+    console.log('Node Production Server is running!🚀');
+})
 /** Listen */
 httpServer.listen(4000, () => console.info(`Node Server is running`));

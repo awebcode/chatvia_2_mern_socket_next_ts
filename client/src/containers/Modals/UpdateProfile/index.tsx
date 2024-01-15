@@ -57,7 +57,7 @@ const UpdateProfile = ({ user, ...props }: UpdateProfileProps) => {
     register,
     formState: { errors },
     handleSubmit,
-  } = useForm<UpdateProfileParams>({
+  } = useForm<any>({
     resolver: yupResolver(schema),
   });
 
