@@ -104,5 +104,5 @@ server.listen(port, () => {
 });
 
 app.get("/", (_: Request, res: Response) => {
-  res.json("K");
+  res.json("SOCKET SERVER IS RUNNING!");
 });

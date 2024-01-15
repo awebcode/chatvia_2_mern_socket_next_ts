@@ -74,4 +74,4 @@ mongoose
     });
 
 /** Listen */
-httpServer.listen(4000, () => console.info(`Server is running`));
+httpServer.listen(4000, () => console.info(`Node Server is running`));
