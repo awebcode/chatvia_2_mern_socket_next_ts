@@ -84,6 +84,9 @@ mongoose_1.default
     .catch((err) => {
     throw err;
 });
+application.get("/", () => {
+    console.log('Node Production Server is running!🚀');
+});
 /** Listen */
-httpServer.listen(4000, () => console.info(`Server is running`));
+httpServer.listen(4000, () => console.info(`Node Server is running`));
 //# sourceMappingURL=index.js.map

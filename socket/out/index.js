@@ -101,5 +101,5 @@ server.listen(port, function () {
     console.log("Socket Server is running on port ".concat(port));
 });
 app.get("/", function (_, res) {
-    res.json("K");
+    res.json("SOCKET SERVER IS RUNNING!");
 });
