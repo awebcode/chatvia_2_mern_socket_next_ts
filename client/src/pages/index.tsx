@@ -23,7 +23,6 @@ import Online from "@containers/pages/Messenger/Online";
 import MyProfile from "@containers/pages/Messenger/MyProfile";
 import PendingConversation from "@containers/pages/Messenger/PendingConversation";
 import { useLazyGetConversationListByUserIdQuery } from "@stores/services/conversation";
-import { useTranslation } from "react-i18next";
 
 export interface FriendInformationType extends Omit<UserType, "username"> {
   name: string;
