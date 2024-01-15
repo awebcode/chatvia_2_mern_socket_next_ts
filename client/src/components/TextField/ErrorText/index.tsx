@@ -3,7 +3,7 @@ import { theme } from "@theme";
 import React from "react";
 
 interface ErrorTextProps {
-  content?: string;
+  content: any;
   isError: boolean;
 }
 

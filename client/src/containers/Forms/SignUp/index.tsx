@@ -35,7 +35,7 @@ const SignUpForm = () => {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm<SignUpParams>({
+  } = useForm<any>({
     resolver: yupResolver(schema),
   });
 

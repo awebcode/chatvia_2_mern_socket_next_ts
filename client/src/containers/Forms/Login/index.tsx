@@ -31,7 +31,7 @@ const LoginForm = () => {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm<LoginParams>({
+  } = useForm<any>({
     resolver: yupResolver(schema),
   });
 

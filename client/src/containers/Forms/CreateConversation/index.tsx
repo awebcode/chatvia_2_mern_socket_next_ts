@@ -41,7 +41,7 @@ const CreateConversationForm = ({
     watch,
     formState: { errors },
     handleSubmit,
-  } = useForm<CreateConversationParams>({ resolver: yupResolver(schema) });
+  } = useForm<any>({ resolver: yupResolver(schema) });
 
   const onSubmit = async (values: CreateConversationParams) => {
     if (!user.id) {
