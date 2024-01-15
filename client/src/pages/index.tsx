@@ -36,7 +36,6 @@ export interface ArrivalMessageType
 }
 
 const Messenger = () => {
-  const { t } = useTranslation();
   const socket = useSocket();
   const router = useRouter();
   const user = useSelector((state: AppState) => state.auth);
